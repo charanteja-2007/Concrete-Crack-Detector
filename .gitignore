@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook checkpoints (if you used Colab/Jupyter for training)
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings (optional — skip if you want to share settings)
+.vscode/
+
+# Environment variables (if you ever add API keys/secrets)
+.env
+
+# Logs
+*.log
